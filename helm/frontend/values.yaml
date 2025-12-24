@@ -1,0 +1,5 @@
+image:
+  repository: frontend-image
+  tag: latest
+service:
+  port: 80
